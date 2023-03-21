@@ -1,4 +1,6 @@
-Organizing the unorganized
+# Organizing the unorganized
+
+[Find PPT Here](https://docs.google.com/presentation/d/1m5A3MVExix9svP5go2Co7YnJ7mpt8Cbo/edit?usp=share_link&ouid=107243147184600994363&rtpof=true&sd=true)
 
 An application that connects the consumer and the worker(Daily Wage and nomadic Workers).
 Worker Unique ID for tracking the worker.
