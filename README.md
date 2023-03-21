@@ -1,3 +1,5 @@
+Organizing the unorganized
+
 An application that connects the consumer and the worker(Daily Wage and nomadic Workers).
 Worker Unique ID for tracking the worker.
 Worker can Find his Work on his own wherever and whenever. Even be planned. Talented one can survive anywhere.
